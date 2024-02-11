@@ -18,9 +18,9 @@
 <br>
 
 <p align="center">
-  <img alt="Imagem com HTML" src=".github/preview.jpg" width="100%">
+  <img alt="Imagem com HTML" src="github/preview.jpg" width="100%">
 
-  <img alt="Imagem com CSS3" src=".github/preview02.jpg" width="100%">
+  <img alt="Imagem com CSS3" src="github/preview02.jpg" width="100%">
 </p>
 
 ## 📖 Tecnologias
